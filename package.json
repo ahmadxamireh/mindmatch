@@ -1,0 +1,28 @@
+{
+  "name": "mindrift",
+  "version": "1.0.0",
+  "description": "Hackathon - MindRift",
+  "homepage": "https://github.com/ahmadxamireh/mindrift#readme",
+  "bugs": {
+    "url": "https://github.com/ahmadxamireh/mindrift/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadxamireh/mindrift.git"
+  },
+  "license": "ISC",
+  "author": "Ahmad Amireh",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "knex": "^3.1.0",
+    "pg": "^8.16.3"
+  }
+}
