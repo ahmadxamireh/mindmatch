@@ -1,0 +1,362 @@
+[
+  {
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "question": "What is the capital city of France?",
+    "correct_answer": "Paris",
+    "options": [
+      "Paris",
+      "Rome",
+      "Madrid",
+      "Berlin"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "question": "What currency is used in the United Kingdom?",
+    "correct_answer": "Pound sterling",
+    "options": [
+      "Pound sterling",
+      "Euro",
+      "Dollar",
+      "Franc"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "question": "How many continents are there on Earth?",
+    "correct_answer": "7",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "5"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "question": "What colour are emeralds?",
+    "correct_answer": "Green",
+    "options": [
+      "Green",
+      "Blue",
+      "Red",
+      "Yellow"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "question": "Which animal is known as 'man's best friend'?",
+    "correct_answer": "Dog",
+    "options": [
+      "Dog",
+      "Cat",
+      "Horse",
+      "Rabbit"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "question": "Which direction does the sun rise from?",
+    "correct_answer": "East",
+    "options": [
+      "East",
+      "West",
+      "North",
+      "South"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "question": "How many legs does a spider have?",
+    "correct_answer": "8",
+    "options": [
+      "8",
+      "6",
+      "10",
+      "12"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "question": "What is the opposite of 'hot'?",
+    "correct_answer": "Cold",
+    "options": [
+      "Cold",
+      "Warm",
+      "Cool",
+      "Boiling"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "question": "How many days are there in a week?",
+    "correct_answer": "7",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "10"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "question": "What is the tallest mammal?",
+    "correct_answer": "Giraffe",
+    "options": [
+      "Giraffe",
+      "Elephant",
+      "Horse",
+      "Camel"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "question": "Which famous scientist developed the three laws of motion?",
+    "correct_answer": "Isaac Newton",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Nikola Tesla"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "question": "What is the hardest natural substance on Earth?",
+    "correct_answer": "Diamond",
+    "options": [
+      "Diamond",
+      "Gold",
+      "Quartz",
+      "Iron"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "question": "Which country has the largest population?",
+    "correct_answer": "India",
+    "options": [
+      "India",
+      "China",
+      "USA",
+      "Indonesia"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "question": "Which famous ship sank on its first voyage in 1912?",
+    "correct_answer": "Titanic",
+    "options": [
+      "Titanic",
+      "Lusitania",
+      "Olympic",
+      "Queen Mary"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "question": "What is the square root of 144?",
+    "correct_answer": "12",
+    "options": [
+      "12",
+      "14",
+      "10",
+      "11"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "question": "Who painted the Mona Lisa?",
+    "correct_answer": "Leonardo da Vinci",
+    "options": [
+      "Leonardo da Vinci",
+      "Vincent van Gogh",
+      "Michelangelo",
+      "Pablo Picasso"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "question": "Which country invented pizza?",
+    "correct_answer": "Italy",
+    "options": [
+      "Italy",
+      "France",
+      "Greece",
+      "Spain"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "question": "How many sides does a hexagon have?",
+    "correct_answer": "6",
+    "options": [
+      "6",
+      "8",
+      "5",
+      "7"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "question": "What is the name of the long river in Egypt?",
+    "correct_answer": "Nile",
+    "options": [
+      "Nile",
+      "Amazon",
+      "Yangtze",
+      "Tigris"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "question": "What is the boiling point of water in Celsius?",
+    "correct_answer": "100",
+    "options": [
+      "100",
+      "90",
+      "80",
+      "110"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "question": "What is the smallest country in the world?",
+    "correct_answer": "Vatican City",
+    "options": [
+      "Vatican City",
+      "Monaco",
+      "Liechtenstein",
+      "San Marino"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "question": "In what year did the Berlin Wall fall?",
+    "correct_answer": "1989",
+    "options": [
+      "1989",
+      "1990",
+      "1987",
+      "1991"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "question": "What is the longest river in the world?",
+    "correct_answer": "Nile",
+    "options": [
+      "Nile",
+      "Amazon",
+      "Yangtze",
+      "Mississippi"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "question": "Who developed the theory of general relativity?",
+    "correct_answer": "Albert Einstein",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Stephen Hawking",
+      "Max Planck"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "question": "What is the capital of New Zealand?",
+    "correct_answer": "Wellington",
+    "options": [
+      "Wellington",
+      "Auckland",
+      "Christchurch",
+      "Hamilton"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "question": "Which blood type is known as the universal donor?",
+    "correct_answer": "O negative",
+    "options": [
+      "O negative",
+      "AB positive",
+      "O positive",
+      "A negative"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "question": "What is the national language of Brazil?",
+    "correct_answer": "Portuguese",
+    "options": [
+      "Portuguese",
+      "Spanish",
+      "French",
+      "English"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "question": "What is the name of the deepest ocean trench?",
+    "correct_answer": "Mariana Trench",
+    "options": [
+      "Mariana Trench",
+      "Tonga Trench",
+      "Kermadec Trench",
+      "Puerto Rico Trench"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "question": "How many bones are there in the adult human body?",
+    "correct_answer": "206",
+    "options": [
+      "206",
+      "210",
+      "200",
+      "198"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "question": "Which scientist discovered penicillin?",
+    "correct_answer": "Alexander Fleming",
+    "options": [
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Marie Curie",
+      "Edward Jenner"
+    ]
+  }
+]

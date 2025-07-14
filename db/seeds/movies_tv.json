@@ -1,0 +1,362 @@
+[
+  {
+    "category": "Movies & TV",
+    "difficulty": "Easy",
+    "question": "Who played the role of Harry Potter in the film series?",
+    "correct_answer": "Daniel Radcliffe",
+    "options": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Elijah Wood",
+      "Tom Holland"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Easy",
+    "question": "Which animated film features a talking snowman named Olaf?",
+    "correct_answer": "Frozen",
+    "options": [
+      "Frozen",
+      "Moana",
+      "Tangled",
+      "Brave"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Easy",
+    "question": "What colour is the Genie in Disney’s Aladdin?",
+    "correct_answer": "Blue",
+    "options": [
+      "Blue",
+      "Green",
+      "Purple",
+      "Red"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Easy",
+    "question": "Which movie features the quote: 'To infinity and beyond!'?",
+    "correct_answer": "Toy Story",
+    "options": [
+      "Toy Story",
+      "The Incredibles",
+      "Finding Nemo",
+      "Cars"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Easy",
+    "question": "Which superhero wears a red suit and has a lightning bolt symbol?",
+    "correct_answer": "The Flash",
+    "options": [
+      "The Flash",
+      "Superman",
+      "Iron Man",
+      "Spider-Man"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Easy",
+    "question": "What is the name of the wizarding school in Harry Potter?",
+    "correct_answer": "Hogwarts",
+    "options": [
+      "Hogwarts",
+      "Durmstrang",
+      "Beauxbatons",
+      "Ilvermorny"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Easy",
+    "question": "Who lives in a pineapple under the sea?",
+    "correct_answer": "SpongeBob SquarePants",
+    "options": [
+      "SpongeBob SquarePants",
+      "Patrick Star",
+      "Squidward",
+      "Mr. Krabs"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Easy",
+    "question": "Which Disney film features a wooden puppet?",
+    "correct_answer": "Pinocchio",
+    "options": [
+      "Pinocchio",
+      "Dumbo",
+      "Bambi",
+      "Peter Pan"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Easy",
+    "question": "Which TV show features a coffee shop called Central Perk?",
+    "correct_answer": "Friends",
+    "options": [
+      "Friends",
+      "Seinfeld",
+      "How I Met Your Mother",
+      "The Office"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Easy",
+    "question": "Which Disney princess has a pet tiger named Rajah?",
+    "correct_answer": "Jasmine",
+    "options": [
+      "Jasmine",
+      "Ariel",
+      "Belle",
+      "Mulan"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Medium",
+    "question": "In The Matrix, does Neo take the blue pill or the red pill?",
+    "correct_answer": "Red pill",
+    "options": [
+      "Red pill",
+      "Blue pill",
+      "Green pill",
+      "He takes both"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Medium",
+    "question": "Which actor voiced Woody in Toy Story?",
+    "correct_answer": "Tom Hanks",
+    "options": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Billy Crystal",
+      "Robin Williams"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Medium",
+    "question": "What is the name of the fictional continent where Game of Thrones takes place?",
+    "correct_answer": "Westeros",
+    "options": [
+      "Westeros",
+      "Eldia",
+      "Narnia",
+      "Middle-earth"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Medium",
+    "question": "Who directed the movie Inception?",
+    "correct_answer": "Christopher Nolan",
+    "options": [
+      "Christopher Nolan",
+      "Steven Spielberg",
+      "James Cameron",
+      "David Fincher"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Medium",
+    "question": "Which film won Best Picture at the 2020 Oscars?",
+    "correct_answer": "Parasite",
+    "options": [
+      "Parasite",
+      "1917",
+      "Joker",
+      "Ford v Ferrari"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Medium",
+    "question": "What is Eleven’s real name in Stranger Things?",
+    "correct_answer": "Jane",
+    "options": [
+      "Jane",
+      "Sarah",
+      "Emma",
+      "Nancy"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Medium",
+    "question": "In which movie would you find a character named Jack Dawson?",
+    "correct_answer": "Titanic",
+    "options": [
+      "Titanic",
+      "Romeo + Juliet",
+      "Pearl Harbor",
+      "The Great Gatsby"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Medium",
+    "question": "Who played Wolverine in the X-Men series?",
+    "correct_answer": "Hugh Jackman",
+    "options": [
+      "Hugh Jackman",
+      "Chris Hemsworth",
+      "Christian Bale",
+      "Ben Affleck"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Medium",
+    "question": "Which TV show stars Pedro Pascal as Joel?",
+    "correct_answer": "The Last of Us",
+    "options": [
+      "The Last of Us",
+      "The Mandalorian",
+      "Narcos",
+      "Breaking Bad"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Medium",
+    "question": "Which character said: 'I am your father'?",
+    "correct_answer": "Darth Vader",
+    "options": [
+      "Darth Vader",
+      "Yoda",
+      "Obi-Wan Kenobi",
+      "Luke Skywalker"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Hard",
+    "question": "What is the name of the motel in the TV series Bates Motel?",
+    "correct_answer": "Seafairer Motel",
+    "options": [
+      "Seafairer Motel",
+      "Fairvale Motel",
+      "Sunset Motel",
+      "Norman’s Inn"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Hard",
+    "question": "Which movie was Stanley Kubrick's last completed film before his death?",
+    "correct_answer": "Eyes Wide Shut",
+    "options": [
+      "Eyes Wide Shut",
+      "Full Metal Jacket",
+      "A Clockwork Orange",
+      "The Shining"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Hard",
+    "question": "What is the full name of the actor who played Gollum?",
+    "correct_answer": "Andy Serkis",
+    "options": [
+      "Andy Serkis",
+      "Andy Sandberg",
+      "Andy Samuels",
+      "Andy Griffith"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Hard",
+    "question": "Which composer created the score for the film Inception?",
+    "correct_answer": "Hans Zimmer",
+    "options": [
+      "Hans Zimmer",
+      "John Williams",
+      "James Newton Howard",
+      "Michael Giacchino"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Hard",
+    "question": "Which director is known for films like 'The Grand Budapest Hotel' and 'Moonrise Kingdom'?",
+    "correct_answer": "Wes Anderson",
+    "options": [
+      "Wes Anderson",
+      "Noah Baumbach",
+      "Paul Thomas Anderson",
+      "Richard Linklater"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Hard",
+    "question": "In which film did Jodie Foster play a character named Clarice Starling?",
+    "correct_answer": "The Silence of the Lambs",
+    "options": [
+      "The Silence of the Lambs",
+      "Contact",
+      "Panic Room",
+      "Flightplan"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Hard",
+    "question": "Which Japanese film inspired the creation of 'The Magnificent Seven'?",
+    "correct_answer": "Seven Samurai",
+    "options": [
+      "Seven Samurai",
+      "Yojimbo",
+      "Rashomon",
+      "Ran"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Hard",
+    "question": "What TV series is based on the novel 'A Song of Ice and Fire'?",
+    "correct_answer": "Game of Thrones",
+    "options": [
+      "Game of Thrones",
+      "The Witcher",
+      "The Wheel of Time",
+      "House of the Dragon"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Hard",
+    "question": "Who played Anton Chigurh in 'No Country for Old Men'?",
+    "correct_answer": "Javier Bardem",
+    "options": [
+      "Javier Bardem",
+      "Benicio Del Toro",
+      "Josh Brolin",
+      "Gael García Bernal"
+    ]
+  },
+  {
+    "category": "Movies & TV",
+    "difficulty": "Hard",
+    "question": "Which horror film features a videotape that kills the viewer in seven days?",
+    "correct_answer": "The Ring",
+    "options": [
+      "The Ring",
+      "The Grudge",
+      "Sinister",
+      "Insidious"
+    ]
+  }
+]

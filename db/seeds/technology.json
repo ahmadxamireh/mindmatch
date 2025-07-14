@@ -1,0 +1,362 @@
+[
+  {
+    "category": "Technology",
+    "difficulty": "Easy",
+    "question": "What does 'WWW' stand for in a website browser?",
+    "correct_answer": "World Wide Web",
+    "options": [
+      "World Wide Web",
+      "Web World Wide",
+      "Wide World Web",
+      "Web Wide World"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Easy",
+    "question": "What device do you use to click, point, and select on a computer screen?",
+    "correct_answer": "Mouse",
+    "options": [
+      "Mouse",
+      "Keyboard",
+      "Monitor",
+      "Printer"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Easy",
+    "question": "What company makes the iPhone?",
+    "correct_answer": "Apple",
+    "options": [
+      "Apple",
+      "Samsung",
+      "Google",
+      "Microsoft"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Easy",
+    "question": "Which company developed the Windows operating system?",
+    "correct_answer": "Microsoft",
+    "options": [
+      "Microsoft",
+      "Apple",
+      "Linux",
+      "IBM"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Easy",
+    "question": "What does USB stand for?",
+    "correct_answer": "Universal Serial Bus",
+    "options": [
+      "Universal Serial Bus",
+      "United Serial Band",
+      "Universal Sync Base",
+      "Unified Standard Bus"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Easy",
+    "question": "What do you call a portable computer?",
+    "correct_answer": "Laptop",
+    "options": [
+      "Laptop",
+      "Desktop",
+      "Server",
+      "Tower"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Easy",
+    "question": "What social media platform uses a bird as its logo?",
+    "correct_answer": "Twitter",
+    "options": [
+      "Twitter",
+      "Facebook",
+      "Instagram",
+      "Reddit"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Easy",
+    "question": "Which company is known for the Android operating system?",
+    "correct_answer": "Google",
+    "options": [
+      "Google",
+      "Apple",
+      "Microsoft",
+      "Huawei"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Easy",
+    "question": "Which symbol is used in email addresses?",
+    "correct_answer": "@",
+    "options": [
+      "@",
+      "#",
+      "$",
+      "&"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Easy",
+    "question": "What do we call text stored on a website that can be clicked on?",
+    "correct_answer": "Hyperlink",
+    "options": [
+      "Hyperlink",
+      "Button",
+      "Script",
+      "Tag"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "question": "What programming language is known for its snake logo?",
+    "correct_answer": "Python",
+    "options": [
+      "Python",
+      "Java",
+      "Ruby",
+      "C++"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "question": "What does HTTP stand for?",
+    "correct_answer": "HyperText Transfer Protocol",
+    "options": [
+      "HyperText Transfer Protocol",
+      "Hyperlink Transfer Tool Process",
+      "Host Transfer Text Program",
+      "High-Tech Text Protocol"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "question": "What does AI stand for in technology?",
+    "correct_answer": "Artificial Intelligence",
+    "options": [
+      "Artificial Intelligence",
+      "Automated Input",
+      "Advanced Integration",
+      "Analytical Interface"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "question": "Which company owns the video platform YouTube?",
+    "correct_answer": "Google",
+    "options": [
+      "Google",
+      "Microsoft",
+      "Meta",
+      "Apple"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "question": "What is the name of the first electronic general-purpose computer?",
+    "correct_answer": "ENIAC",
+    "options": [
+      "ENIAC",
+      "UNIVAC",
+      "Z3",
+      "EDSAC"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "question": "Which company developed the video game console PlayStation?",
+    "correct_answer": "Sony",
+    "options": [
+      "Sony",
+      "Microsoft",
+      "Nintendo",
+      "Sega"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "question": "What does 'IoT' stand for in modern tech?",
+    "correct_answer": "Internet of Things",
+    "options": [
+      "Internet of Things",
+      "Information on Technology",
+      "Input of Tools",
+      "Integrated Open Tech"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "question": "What is the name of Apple’s virtual assistant?",
+    "correct_answer": "Siri",
+    "options": [
+      "Siri",
+      "Alexa",
+      "Cortana",
+      "Google Assistant"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "question": "What does HTML stand for?",
+    "correct_answer": "HyperText Markup Language",
+    "options": [
+      "HyperText Markup Language",
+      "HighText Markdown Language",
+      "HyperTool Markup Language",
+      "HyperText Machine Language"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "question": "Which tech company is headquartered in Redmond, Washington?",
+    "correct_answer": "Microsoft",
+    "options": [
+      "Microsoft",
+      "Apple",
+      "Intel",
+      "Amazon"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Hard",
+    "question": "Who is credited with inventing the World Wide Web?",
+    "correct_answer": "Tim Berners-Lee",
+    "options": [
+      "Tim Berners-Lee",
+      "Bill Gates",
+      "Steve Jobs",
+      "Alan Turing"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Hard",
+    "question": "What is the time complexity of binary search in Big-O notation?",
+    "correct_answer": "O(log n)",
+    "options": [
+      "O(log n)",
+      "O(n)",
+      "O(n log n)",
+      "O(1)"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Hard",
+    "question": "Which cryptographic algorithm is based on the factoring of large integers?",
+    "correct_answer": "RSA",
+    "options": [
+      "RSA",
+      "AES",
+      "SHA-256",
+      "Diffie-Hellman"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Hard",
+    "question": "What year was the first iPhone released?",
+    "correct_answer": "2007",
+    "options": [
+      "2007",
+      "2005",
+      "2008",
+      "2010"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Hard",
+    "question": "Which company created the Linux operating system?",
+    "correct_answer": "None (it's open source, started by Linus Torvalds)",
+    "options": [
+      "None (it's open source, started by Linus Torvalds)",
+      "IBM",
+      "Red Hat",
+      "Microsoft"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Hard",
+    "question": "What does GPU stand for?",
+    "correct_answer": "Graphics Processing Unit",
+    "options": [
+      "Graphics Processing Unit",
+      "General Processor Unit",
+      "Graphical Power Unit",
+      "Graphic Program Utility"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Hard",
+    "question": "Which protocol secures websites with encryption?",
+    "correct_answer": "HTTPS",
+    "options": [
+      "HTTPS",
+      "FTP",
+      "HTTP",
+      "SMTP"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Hard",
+    "question": "What is Moore’s Law related to?",
+    "correct_answer": "The doubling of transistors on a chip every two years",
+    "options": [
+      "The doubling of transistors on a chip every two years",
+      "Computer speed doubling each year",
+      "Network bandwidth",
+      "Battery life improvements"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Hard",
+    "question": "What is the native programming language for Android development?",
+    "correct_answer": "Kotlin",
+    "options": [
+      "Kotlin",
+      "Swift",
+      "Dart",
+      "C#"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Hard",
+    "question": "Which logic gate returns true only when inputs differ?",
+    "correct_answer": "XOR",
+    "options": [
+      "XOR",
+      "AND",
+      "OR",
+      "NAND"
+    ]
+  }
+]

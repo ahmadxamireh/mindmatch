@@ -1,0 +1,362 @@
+[
+  {
+    "category": "Football",
+    "difficulty": "Easy",
+    "question": "Which country won the FIFA World Cup in 2018?",
+    "correct_answer": "France",
+    "options": [
+      "France",
+      "Croatia",
+      "Germany",
+      "Brazil"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Easy",
+    "question": "What is the maximum number of players on the field for one team during a match?",
+    "correct_answer": "11",
+    "options": [
+      "11",
+      "10",
+      "12",
+      "9"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Easy",
+    "question": "What part of the body can't touch the ball in football (except the goalkeeper)?",
+    "correct_answer": "Hands",
+    "options": [
+      "Hands",
+      "Head",
+      "Chest",
+      "Knees"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Easy",
+    "question": "Which player wears gloves and can use their hands?",
+    "correct_answer": "Goalkeeper",
+    "options": [
+      "Goalkeeper",
+      "Defender",
+      "Striker",
+      "Midfielder"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Easy",
+    "question": "Which country has won the most World Cups?",
+    "correct_answer": "Brazil",
+    "options": [
+      "Brazil",
+      "Germany",
+      "Italy",
+      "Argentina"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Easy",
+    "question": "Who is famous for wearing the number 10 jersey for Argentina?",
+    "correct_answer": "Lionel Messi",
+    "options": [
+      "Lionel Messi",
+      "Diego Maradona",
+      "Sergio Agüero",
+      "Ángel Di María"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Easy",
+    "question": "What shape is a football?",
+    "correct_answer": "Sphere",
+    "options": [
+      "Sphere",
+      "Oval",
+      "Cylinder",
+      "Cube"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Easy",
+    "question": "How many halves are there in a football match?",
+    "correct_answer": "2",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Easy",
+    "question": "Which European club is known as 'The Red Devils'?",
+    "correct_answer": "Manchester United",
+    "options": [
+      "Manchester United",
+      "Liverpool",
+      "Arsenal",
+      "Chelsea"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Easy",
+    "question": "In which country is the club FC Barcelona based?",
+    "correct_answer": "Spain",
+    "options": [
+      "Spain",
+      "Italy",
+      "France",
+      "Portugal"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Medium",
+    "question": "Which footballer has won the most Ballon d'Or awards?",
+    "correct_answer": "Lionel Messi",
+    "options": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Zinedine Zidane",
+      "Ronaldinho"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Medium",
+    "question": "Which club won the UEFA Champions League in 2021?",
+    "correct_answer": "Chelsea",
+    "options": [
+      "Chelsea",
+      "Manchester City",
+      "Real Madrid",
+      "Bayern Munich"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Medium",
+    "question": "Which African country reached the World Cup semifinals in 2022?",
+    "correct_answer": "Morocco",
+    "options": [
+      "Morocco",
+      "Senegal",
+      "Cameroon",
+      "Nigeria"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Medium",
+    "question": "Which football manager is known for 'The Special One' quote?",
+    "correct_answer": "José Mourinho",
+    "options": [
+      "José Mourinho",
+      "Pep Guardiola",
+      "Carlo Ancelotti",
+      "Jürgen Klopp"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Medium",
+    "question": "Which country hosted the 2014 FIFA World Cup?",
+    "correct_answer": "Brazil",
+    "options": [
+      "Brazil",
+      "Germany",
+      "Russia",
+      "South Africa"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Medium",
+    "question": "Which German club has won the most Bundesliga titles?",
+    "correct_answer": "Bayern Munich",
+    "options": [
+      "Bayern Munich",
+      "Borussia Dortmund",
+      "Schalke",
+      "Leverkusen"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Medium",
+    "question": "What nationality is Mohamed Salah?",
+    "correct_answer": "Egyptian",
+    "options": [
+      "Egyptian",
+      "Moroccan",
+      "Tunisian",
+      "Algerian"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Medium",
+    "question": "Which club plays at the Santiago Bernabéu Stadium?",
+    "correct_answer": "Real Madrid",
+    "options": [
+      "Real Madrid",
+      "Barcelona",
+      "Atletico Madrid",
+      "Sevilla"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Medium",
+    "question": "What year was the first FIFA World Cup held?",
+    "correct_answer": "1930",
+    "options": [
+      "1930",
+      "1924",
+      "1940",
+      "1934"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Medium",
+    "question": "Which position is responsible for scoring the most goals?",
+    "correct_answer": "Striker",
+    "options": [
+      "Striker",
+      "Goalkeeper",
+      "Defender",
+      "Winger"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Hard",
+    "question": "Which country won the first ever FIFA World Cup?",
+    "correct_answer": "Uruguay",
+    "options": [
+      "Uruguay",
+      "Brazil",
+      "Argentina",
+      "Italy"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Hard",
+    "question": "Which club has won the most UEFA Champions League titles?",
+    "correct_answer": "Real Madrid",
+    "options": [
+      "Real Madrid",
+      "AC Milan",
+      "Liverpool",
+      "Barcelona"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Hard",
+    "question": "Who scored the 'Hand of God' goal?",
+    "correct_answer": "Diego Maradona",
+    "options": [
+      "Diego Maradona",
+      "Pelé",
+      "Lionel Messi",
+      "Carlos Valderrama"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Hard",
+    "question": "Which club did Thierry Henry play for before joining Arsenal?",
+    "correct_answer": "Juventus",
+    "options": [
+      "Juventus",
+      "Barcelona",
+      "AS Monaco",
+      "PSG"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Hard",
+    "question": "Who was the captain of Italy when they won the 2006 World Cup?",
+    "correct_answer": "Fabio Cannavaro",
+    "options": [
+      "Fabio Cannavaro",
+      "Andrea Pirlo",
+      "Gianluigi Buffon",
+      "Marco Materazzi"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Hard",
+    "question": "Which Dutch footballer was known as 'The Flying Dutchman'?",
+    "correct_answer": "Robin van Persie",
+    "options": [
+      "Robin van Persie",
+      "Arjen Robben",
+      "Ruud Gullit",
+      "Dennis Bergkamp"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Hard",
+    "question": "Which country won Euro 2004?",
+    "correct_answer": "Greece",
+    "options": [
+      "Greece",
+      "Portugal",
+      "Italy",
+      "Spain"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Hard",
+    "question": "Which manager led Leicester City to their 2016 Premier League title?",
+    "correct_answer": "Claudio Ranieri",
+    "options": [
+      "Claudio Ranieri",
+      "Brendan Rodgers",
+      "Nigel Pearson",
+      "Sean Dyche"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Hard",
+    "question": "Which African player won the Ballon d'Or in 1995?",
+    "correct_answer": "George Weah",
+    "options": [
+      "George Weah",
+      "Samuel Eto'o",
+      "Didier Drogba",
+      "Jay-Jay Okocha"
+    ]
+  },
+  {
+    "category": "Football",
+    "difficulty": "Hard",
+    "question": "Which English club is nicknamed 'The Magpies'?",
+    "correct_answer": "Newcastle United",
+    "options": [
+      "Newcastle United",
+      "Swansea City",
+      "Fulham",
+      "Nottingham Forest"
+    ]
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "category": "Literature",
+    "difficulty": "Easy",
+    "question": "Who wrote 'Harry Potter'?",
+    "correct_answer": "J.K. Rowling",
+    "options": [
+      "J.K. Rowling",
+      "Suzanne Collins",
+      "Rick Riordan",
+      "Stephenie Meyer"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Easy",
+    "question": "Who is the author of 'Green Eggs and Ham'?",
+    "correct_answer": "Dr. Seuss",
+    "options": [
+      "Dr. Seuss",
+      "Beatrix Potter",
+      "Roald Dahl",
+      "Eric Carle"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Easy",
+    "question": "What is the name of the bear in 'Winnie-the-Pooh'?",
+    "correct_answer": "Winnie",
+    "options": [
+      "Winnie",
+      "Teddy",
+      "Paddington",
+      "Poohie"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Easy",
+    "question": "Who wrote 'Charlotte's Web'?",
+    "correct_answer": "E.B. White",
+    "options": [
+      "E.B. White",
+      "C.S. Lewis",
+      "Judy Blume",
+      "Beverly Cleary"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Easy",
+    "question": "What is the name of the lion in 'The Lion, the Witch and the Wardrobe'?",
+    "correct_answer": "Aslan",
+    "options": [
+      "Aslan",
+      "Simba",
+      "Mufasa",
+      "Leo"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Easy",
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "correct_answer": "William Shakespeare",
+    "options": [
+      "William Shakespeare",
+      "Christopher Marlowe",
+      "Ben Jonson",
+      "John Milton"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Easy",
+    "question": "In 'Matilda', who is Matilda’s kind teacher?",
+    "correct_answer": "Miss Honey",
+    "options": [
+      "Miss Honey",
+      "Miss Trunchbull",
+      "Miss Apple",
+      "Miss Berry"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Easy",
+    "question": "What genre is 'The Hobbit'?",
+    "correct_answer": "Fantasy",
+    "options": [
+      "Fantasy",
+      "Science Fiction",
+      "Romance",
+      "Mystery"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Easy",
+    "question": "What is the name of Sherlock Holmes’ assistant?",
+    "correct_answer": "Dr. Watson",
+    "options": [
+      "Dr. Watson",
+      "Dr. Wilson",
+      "Inspector Lestrade",
+      "Mycroft Holmes"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Easy",
+    "question": "Who wrote 'Charlie and the Chocolate Factory'?",
+    "correct_answer": "Roald Dahl",
+    "options": [
+      "Roald Dahl",
+      "J.K. Rowling",
+      "Lewis Carroll",
+      "E.B. White"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "question": "Who wrote '1984' and 'Animal Farm'?",
+    "correct_answer": "George Orwell",
+    "options": [
+      "George Orwell",
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "Kurt Vonnegut"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "question": "What is the first name of Mr. Darcy in 'Pride and Prejudice'?",
+    "correct_answer": "Fitzwilliam",
+    "options": [
+      "Fitzwilliam",
+      "Charles",
+      "William",
+      "Henry"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "question": "Which American poet wrote 'The Raven'?",
+    "correct_answer": "Edgar Allan Poe",
+    "options": [
+      "Edgar Allan Poe",
+      "Walt Whitman",
+      "Emily Dickinson",
+      "Robert Frost"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "question": "What novel begins with 'Call me Ishmael'?",
+    "correct_answer": "Moby-Dick",
+    "options": [
+      "Moby-Dick",
+      "The Old Man and the Sea",
+      "Heart of Darkness",
+      "The Catcher in the Rye"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "question": "Who is the author of 'The Catcher in the Rye'?",
+    "correct_answer": "J.D. Salinger",
+    "options": [
+      "J.D. Salinger",
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "John Steinbeck"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "question": "Which Shakespeare play features the line 'To be, or not to be'?",
+    "correct_answer": "Hamlet",
+    "options": [
+      "Hamlet",
+      "Macbeth",
+      "Othello",
+      "King Lear"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "question": "Who wrote 'The Picture of Dorian Gray'?",
+    "correct_answer": "Oscar Wilde",
+    "options": [
+      "Oscar Wilde",
+      "Mary Shelley",
+      "Bram Stoker",
+      "Thomas Hardy"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "question": "Which novel features the character Atticus Finch?",
+    "correct_answer": "To Kill a Mockingbird",
+    "options": [
+      "To Kill a Mockingbird",
+      "Of Mice and Men",
+      "The Grapes of Wrath",
+      "The Great Gatsby"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "question": "What is the name of the dystopian novel by Aldous Huxley?",
+    "correct_answer": "Brave New World",
+    "options": [
+      "Brave New World",
+      "Fahrenheit 451",
+      "1984",
+      "The Giver"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "question": "Who wrote 'The Handmaid’s Tale'?",
+    "correct_answer": "Margaret Atwood",
+    "options": [
+      "Margaret Atwood",
+      "Ursula K. Le Guin",
+      "Octavia Butler",
+      "Suzanne Collins"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Hard",
+    "question": "Which novel is subtitled 'The Modern Prometheus'?",
+    "correct_answer": "Frankenstein",
+    "options": [
+      "Frankenstein",
+      "Dr. Jekyll and Mr. Hyde",
+      "The Invisible Man",
+      "The Island of Dr. Moreau"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Hard",
+    "question": "Who wrote the epic poem 'Paradise Lost'?",
+    "correct_answer": "John Milton",
+    "options": [
+      "John Milton",
+      "William Blake",
+      "Geoffrey Chaucer",
+      "Alexander Pope"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Hard",
+    "question": "What is the name of the protagonist in 'Crime and Punishment'?",
+    "correct_answer": "Raskolnikov",
+    "options": [
+      "Raskolnikov",
+      "Ivanov",
+      "Oblomov",
+      "Karamazov"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Hard",
+    "question": "Which James Joyce novel is set over the course of a single day?",
+    "correct_answer": "Ulysses",
+    "options": [
+      "Ulysses",
+      "Finnegans Wake",
+      "Dubliners",
+      "A Portrait of the Artist as a Young Man"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Hard",
+    "question": "Who wrote 'One Hundred Years of Solitude'?",
+    "correct_answer": "Gabriel García Márquez",
+    "options": [
+      "Gabriel García Márquez",
+      "Mario Vargas Llosa",
+      "Isabel Allende",
+      "Jorge Luis Borges"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Hard",
+    "question": "In 'The Brothers Karamazov', who is the spiritual brother?",
+    "correct_answer": "Alyosha",
+    "options": [
+      "Alyosha",
+      "Ivan",
+      "Dmitri",
+      "Smerdyakov"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Hard",
+    "question": "Which novel features the line 'All animals are equal, but some animals are more equal than others'?",
+    "correct_answer": "Animal Farm",
+    "options": [
+      "Animal Farm",
+      "1984",
+      "Lord of the Flies",
+      "Brave New World"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Hard",
+    "question": "Which Russian author wrote 'The Master and Margarita'?",
+    "correct_answer": "Mikhail Bulgakov",
+    "options": [
+      "Mikhail Bulgakov",
+      "Leo Tolstoy",
+      "Fyodor Dostoevsky",
+      "Anton Chekhov"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Hard",
+    "question": "Who wrote 'Slaughterhouse-Five'?",
+    "correct_answer": "Kurt Vonnegut",
+    "options": [
+      "Kurt Vonnegut",
+      "Joseph Heller",
+      "Ray Bradbury",
+      "George Orwell"
+    ]
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Hard",
+    "question": "What is the original language of 'Don Quixote'?",
+    "correct_answer": "Spanish",
+    "options": [
+      "Spanish",
+      "Portuguese",
+      "Italian",
+      "French"
+    ]
+  }
+]
