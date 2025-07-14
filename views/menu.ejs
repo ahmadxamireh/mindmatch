@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>MindRift Quiz</title>
+    <link rel="stylesheet" href="/css/styles.css" />
+  </head>
+  <body>
+    <section class="card-stack menu-card">
+      <article class="card" style="--i: 0">
+        <div class="card-content">
+          <h3 class="card-title">
+            Choose a Category and a Difficulty to Start
+          </h3>
+          <div class="frame">
+            <form id="startForm" action="/mindrift/quiz" method="POST">
+              <!-- Hidden inputs for JS to populate -->
+              <input type="hidden" name="category" id="selectedCategory" />
+              <input type="hidden" name="difficulty" id="selectedDifficulty" />
+              <fieldset>
+                <legend>🧠 Core Knowledge</legend>
+                <input
+                  type="checkbox"
+                  class="chip grow"
+                  role="switch"
+                  data-group="category"
+                  value="Science"
+                  aria-label="Science"
+                  style="--color: #1abc9c"
+                />
+                <input
+                  type="checkbox"
+                  class="chip grow"
+                  role="switch"
+                  data-group="category"
+                  value="Maths"
+                  aria-label="Maths"
+                  style="--color: #3498db"
+                />
+                <input
+                  type="checkbox"
+                  class="chip grow"
+                  role="switch"
+                  data-group="category"
+                  value="Technology"
+                  aria-label="Technology"
+                  style="--color: #9b59b6"
+                />
+              </fieldset>
+              <fieldset>
+                <legend>🎭 Entertainment</legend>
+                <input
+                  type="checkbox"
+                  class="chip grow"
+                  role="switch"
+                  data-group="category"
+                  value="Music"
+                  aria-label="Music"
+                  style="--color: #e67e22"
+                />
+                <input
+                  type="checkbox"
+                  class="chip grow"
+                  role="switch"
+                  data-group="category"
+                  value="Movies & TV"
+                  aria-label="Movies & TV"
+                  style="--color: #e74c3c"
+                />
+                <input
+                  type="checkbox"
+                  class="chip grow"
+                  role="switch"
+                  data-group="category"
+                  value="Literature"
+                  aria-label="Literature"
+                  style="--color: #f1c40f"
+                />
+              </fieldset>
+              <fieldset>
+                <legend>🏅 Sports</legend>
+                <input
+                  type="checkbox"
+                  class="chip grow"
+                  role="switch"
+                  data-group="category"
+                  value="Tennis"
+                  aria-label="Tennis"
+                  style="--color: #2ecc71"
+                />
+                <input
+                  type="checkbox"
+                  class="chip grow"
+                  role="switch"
+                  data-group="category"
+                  value="Football"
+                  aria-label="Football"
+                  style="--color: #27ae60"
+                />
+                <input
+                  type="checkbox"
+                  class="chip grow"
+                  role="switch"
+                  data-group="category"
+                  value="Olympics"
+                  aria-label="Olympics"
+                  style="--color: #f39c12"
+                />
+              </fieldset>
+              <fieldset>
+                <legend>🌍 General</legend>
+                <input
+                  type="checkbox"
+                  class="chip grow"
+                  role="switch"
+                  data-group="category"
+                  value="General Knowledge"
+                  aria-label="General Knowledge"
+                  style="--color: #8e44ad"
+                />
+              </fieldset>
+              <fieldset>
+                <legend>🏋🏻‍♂️ Difficulty</legend>
+                <input
+                  type="checkbox"
+                  class="chip grow"
+                  role="switch"
+                  data-group="difficulty"
+                  value="Easy"
+                  aria-label="Easy"
+                  style="--color: #2ecc71"
+                />
+                <input
+                  type="checkbox"
+                  class="chip grow"
+                  role="switch"
+                  data-group="difficulty"
+                  value="Medium"
+                  aria-label="Medium"
+                  style="--color: #f39c12"
+                />
+                <input
+                  type="checkbox"
+                  class="chip grow"
+                  role="switch"
+                  data-group="difficulty"
+                  value="Hard"
+                  aria-label="Hard"
+                  style="--color: #c0392b"
+                />
+                <input
+                  type="checkbox"
+                  class="chip grow"
+                  role="switch"
+                  data-group="difficulty"
+                  value="Adaptive"
+                  aria-label="Adaptive"
+                  style="--color: #ffd700"
+                />
+              </fieldset>
+              <div class="button-row">
+                <a href="/mindrift/leaderboard" class="custom-btn btn-14"
+                  ><span>Leaderboard</span></a
+                >
+                <a href="/mindrift/" class="custom-btn btn-14"
+                  ><span>Back to Start</span></a
+                >
+              </div>
+              <button id="startBtn" class="custom-btn btn-14" disabled>
+                <span>Start Quiz</span>
+              </button>
+            </form>
+          </div>
+        </div>
+      </article>
+    </section>
+    <!-- Script -->
+    <script src="/js/menuLogic.js"></script>
+  </body>
+</html>

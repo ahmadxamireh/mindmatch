@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>MindRift</title>
+    <link rel="stylesheet" href="/css/styles.css" />
+  </head>
+  <body>
+    <section class="card-stack">
+      <article class="card" style="--i: 0">
+        <div class="card-content welcome-container">
+          <h3 class="card-title">Welcome to MindRift 🧠</h3>
+          <div class="welcome">
+            <p>
+              Challenge your brain with a variety of quizzes across categories
+              and difficulties.
+            </p>
+            <p>
+              Play smart, rise through the ranks, and claim your spot on the
+              leaderboard.
+            </p>
+            <p>Ready to test your knowledge? Let’s begin!</p>
+          </div>
+          <div class="frame">
+            <form method="GET" action="/mindrift/menu">
+              <button type="submit" class="custom-btn btn-6">
+                <span>Main Menu</span>
+              </button>
+            </form>
+            <form method="GET" action="/mindrift/leaderboard">
+              <button type="submit" class="custom-btn btn-6">
+                <span>Leaderboard</span>
+              </button>
+            </form>
+          </div>
+        </div>
+      </article>
+    </section>
+  </body>
+</html>
