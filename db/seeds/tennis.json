@@ -1,0 +1,362 @@
+[
+  {
+    "category": "Tennis",
+    "difficulty": "Easy",
+    "question": "What surface is the Wimbledon tournament played on?",
+    "correct_answer": "Grass",
+    "options": [
+      "Grass",
+      "Clay",
+      "Hard",
+      "Carpet"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Easy",
+    "question": "How many players are on the court during a singles match?",
+    "correct_answer": "2",
+    "options": [
+      "2",
+      "4",
+      "1",
+      "6"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Easy",
+    "question": "What is the term for a score of zero in tennis?",
+    "correct_answer": "Love",
+    "options": [
+      "Love",
+      "Zero",
+      "Nil",
+      "Duck"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Easy",
+    "question": "Which country is Novak Djokovic from?",
+    "correct_answer": "Serbia",
+    "options": [
+      "Serbia",
+      "Spain",
+      "Switzerland",
+      "Croatia"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Easy",
+    "question": "What is the maximum number of sets in a Grand Slam men’s match?",
+    "correct_answer": "5",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "6"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Easy",
+    "question": "Who is known as the 'King of Clay'?",
+    "correct_answer": "Rafael Nadal",
+    "options": [
+      "Rafael Nadal",
+      "Roger Federer",
+      "Andy Murray",
+      "Pete Sampras"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Easy",
+    "question": "What is the name of the line judge’s call when the ball is out?",
+    "correct_answer": "Out",
+    "options": [
+      "Out",
+      "Fault",
+      "Miss",
+      "Stop"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Easy",
+    "question": "Which female player has won the most Grand Slam singles titles?",
+    "correct_answer": "Serena Williams",
+    "options": [
+      "Serena Williams",
+      "Steffi Graf",
+      "Venus Williams",
+      "Martina Navratilova"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Easy",
+    "question": "What is the name for a 40-40 score in tennis?",
+    "correct_answer": "Deuce",
+    "options": [
+      "Deuce",
+      "Tie",
+      "Even",
+      "Draw"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Easy",
+    "question": "Which Grand Slam is played in Australia?",
+    "correct_answer": "Australian Open",
+    "options": [
+      "Australian Open",
+      "French Open",
+      "Wimbledon",
+      "US Open"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Medium",
+    "question": "Which player famously screamed 'Come on!' after winning points?",
+    "correct_answer": "Andy Murray",
+    "options": [
+      "Andy Murray",
+      "Roger Federer",
+      "John McEnroe",
+      "Björn Borg"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Medium",
+    "question": "Which tennis tournament is played on clay courts?",
+    "correct_answer": "French Open",
+    "options": [
+      "French Open",
+      "Wimbledon",
+      "US Open",
+      "Australian Open"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Medium",
+    "question": "What nationality is tennis star Iga Świątek?",
+    "correct_answer": "Polish",
+    "options": [
+      "Polish",
+      "German",
+      "Czech",
+      "Slovak"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Medium",
+    "question": "How many Grand Slam titles has Roger Federer won?",
+    "correct_answer": "20",
+    "options": [
+      "20",
+      "21",
+      "22",
+      "18"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Medium",
+    "question": "Who defeated Serena Williams in the 2018 US Open final?",
+    "correct_answer": "Naomi Osaka",
+    "options": [
+      "Naomi Osaka",
+      "Simona Halep",
+      "Ashleigh Barty",
+      "Coco Gauff"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Medium",
+    "question": "Which tennis player has an Olympic gold medal in singles and doubles?",
+    "correct_answer": "Serena Williams",
+    "options": [
+      "Serena Williams",
+      "Venus Williams",
+      "Martina Hingis",
+      "Maria Sharapova"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Medium",
+    "question": "Which Swiss player won the 2015 French Open doubles title?",
+    "correct_answer": "Stan Wawrinka",
+    "options": [
+      "Stan Wawrinka",
+      "Roger Federer",
+      "Marc Rosset",
+      "Henri Laaksonen"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Medium",
+    "question": "Which tennis player is known for his underarm serve?",
+    "correct_answer": "Nick Kyrgios",
+    "options": [
+      "Nick Kyrgios",
+      "Carlos Alcaraz",
+      "Casper Ruud",
+      "Daniil Medvedev"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Medium",
+    "question": "What is the name of the trophy awarded at Wimbledon?",
+    "correct_answer": "Gentlemen's Singles Trophy",
+    "options": [
+      "Gentlemen's Singles Trophy",
+      "Wimbledon Cup",
+      "All England Trophy",
+      "The Grand Slam Cup"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Medium",
+    "question": "What does ATP stand for?",
+    "correct_answer": "Association of Tennis Professionals",
+    "options": [
+      "Association of Tennis Professionals",
+      "American Tennis Partnership",
+      "Athletes of Tennis Pro",
+      "Advanced Tennis Players"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Hard",
+    "question": "Which male player won the Calendar Year Grand Slam in 1969?",
+    "correct_answer": "Rod Laver",
+    "options": [
+      "Rod Laver",
+      "Björn Borg",
+      "Pete Sampras",
+      "Ken Rosewall"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Hard",
+    "question": "Who was the first African-American man to win the US Open?",
+    "correct_answer": "Arthur Ashe",
+    "options": [
+      "Arthur Ashe",
+      "James Blake",
+      "Yannick Noah",
+      "Mal Washington"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Hard",
+    "question": "Which player won the most ATP titles in the 1980s?",
+    "correct_answer": "Ivan Lendl",
+    "options": [
+      "Ivan Lendl",
+      "John McEnroe",
+      "Boris Becker",
+      "Jimmy Connors"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Hard",
+    "question": "Who won the women’s singles at Wimbledon in 1977, the tournament's centenary?",
+    "correct_answer": "Virginia Wade",
+    "options": [
+      "Virginia Wade",
+      "Billie Jean King",
+      "Chris Evert",
+      "Martina Navratilova"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Hard",
+    "question": "Which year did Rafael Nadal win his first French Open title?",
+    "correct_answer": "2005",
+    "options": [
+      "2005",
+      "2006",
+      "2004",
+      "2007"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Hard",
+    "question": "Which tennis player once served a ball at over 155 mph?",
+    "correct_answer": "Sam Groth",
+    "options": [
+      "Sam Groth",
+      "John Isner",
+      "Andy Roddick",
+      "Taylor Fritz"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Hard",
+    "question": "Who is the only player to win a Golden Slam (all 4 Grand Slams and Olympic gold in a year)?",
+    "correct_answer": "Steffi Graf",
+    "options": [
+      "Steffi Graf",
+      "Serena Williams",
+      "Martina Navratilova",
+      "Justine Henin"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Hard",
+    "question": "Which country's Davis Cup team did Novak Djokovic debut for?",
+    "correct_answer": "Serbia and Montenegro",
+    "options": [
+      "Serbia and Montenegro",
+      "Yugoslavia",
+      "Serbia",
+      "Bosnia"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Hard",
+    "question": "Which tennis player won the French Open without dropping a set in 2020?",
+    "correct_answer": "Rafael Nadal",
+    "options": [
+      "Rafael Nadal",
+      "Novak Djokovic",
+      "Dominic Thiem",
+      "Stefanos Tsitsipas"
+    ]
+  },
+  {
+    "category": "Tennis",
+    "difficulty": "Hard",
+    "question": "What is the name of the computerized line-calling system in tennis?",
+    "correct_answer": "Hawk-Eye",
+    "options": [
+      "Hawk-Eye",
+      "LineTrack",
+      "EagleEye",
+      "ShotScope"
+    ]
+  }
+]

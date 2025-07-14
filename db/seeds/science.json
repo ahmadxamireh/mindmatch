@@ -1,0 +1,362 @@
+[
+  {
+    "category": "Science",
+    "difficulty": "Easy",
+    "question": "What planet is known as the Red Planet?",
+    "correct_answer": "Mars",
+    "options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Mercury"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Easy",
+    "question": "How many legs does an insect have?",
+    "correct_answer": "6",
+    "options": [
+      "6",
+      "4",
+      "8",
+      "10"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Easy",
+    "question": "What gas do plants breathe in?",
+    "correct_answer": "Carbon dioxide",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Easy",
+    "question": "What is the centre of an atom called?",
+    "correct_answer": "Nucleus",
+    "options": [
+      "Nucleus",
+      "Electron",
+      "Proton",
+      "Core"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Easy",
+    "question": "How many planets are in the Solar System?",
+    "correct_answer": "8",
+    "options": [
+      "8",
+      "7",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Easy",
+    "question": "What do bees make?",
+    "correct_answer": "Honey",
+    "options": [
+      "Honey",
+      "Milk",
+      "Silk",
+      "Wax"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Easy",
+    "question": "Which part of the body pumps blood?",
+    "correct_answer": "Heart",
+    "options": [
+      "Heart",
+      "Lungs",
+      "Liver",
+      "Brain"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Easy",
+    "question": "Water freezes at what temperature in Celsius?",
+    "correct_answer": "0°C",
+    "options": [
+      "0°C",
+      "32°C",
+      "100°C",
+      "10°C"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Easy",
+    "question": "Which planet is closest to the Sun?",
+    "correct_answer": "Mercury",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Earth",
+      "Mars"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Easy",
+    "question": "What is H2O commonly known as?",
+    "correct_answer": "Water",
+    "options": [
+      "Water",
+      "Oxygen",
+      "Hydrogen",
+      "Salt"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Medium",
+    "question": "Which organ is responsible for detoxifying chemicals in the body?",
+    "correct_answer": "Liver",
+    "options": [
+      "Liver",
+      "Kidneys",
+      "Lungs",
+      "Stomach"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Medium",
+    "question": "What is the powerhouse of the cell?",
+    "correct_answer": "Mitochondria",
+    "options": [
+      "Mitochondria",
+      "Nucleus",
+      "Ribosome",
+      "Chloroplast"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Medium",
+    "question": "What kind of bond involves the sharing of electron pairs between atoms?",
+    "correct_answer": "Covalent bond",
+    "options": [
+      "Covalent bond",
+      "Ionic bond",
+      "Hydrogen bond",
+      "Metallic bond"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Medium",
+    "question": "Which element has the atomic number 1?",
+    "correct_answer": "Hydrogen",
+    "options": [
+      "Hydrogen",
+      "Helium",
+      "Oxygen",
+      "Nitrogen"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Medium",
+    "question": "Which organ system includes the brain and spinal cord?",
+    "correct_answer": "Nervous system",
+    "options": [
+      "Nervous system",
+      "Circulatory system",
+      "Digestive system",
+      "Endocrine system"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Medium",
+    "question": "What is the process by which plants make food?",
+    "correct_answer": "Photosynthesis",
+    "options": [
+      "Photosynthesis",
+      "Respiration",
+      "Transpiration",
+      "Fermentation"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Medium",
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "correct_answer": "Nitrogen",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Medium",
+    "question": "Which force pulls objects toward Earth?",
+    "correct_answer": "Gravity",
+    "options": [
+      "Gravity",
+      "Magnetism",
+      "Friction",
+      "Inertia"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Medium",
+    "question": "What unit is used to measure electric current?",
+    "correct_answer": "Ampere",
+    "options": [
+      "Ampere",
+      "Volt",
+      "Watt",
+      "Ohm"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Medium",
+    "question": "Which part of the plant conducts photosynthesis?",
+    "correct_answer": "Leaf",
+    "options": [
+      "Leaf",
+      "Stem",
+      "Root",
+      "Flower"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Hard",
+    "question": "Which physicist developed the general theory of relativity?",
+    "correct_answer": "Albert Einstein",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Stephen Hawking",
+      "Niels Bohr"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Hard",
+    "question": "What particle carries a negative electric charge?",
+    "correct_answer": "Electron",
+    "options": [
+      "Electron",
+      "Proton",
+      "Neutron",
+      "Photon"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Hard",
+    "question": "Which element has the highest atomic number found naturally?",
+    "correct_answer": "Uranium",
+    "options": [
+      "Uranium",
+      "Plutonium",
+      "Radium",
+      "Thorium"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Hard",
+    "question": "What is the name of the theory that describes the origin of the universe?",
+    "correct_answer": "Big Bang Theory",
+    "options": [
+      "Big Bang Theory",
+      "String Theory",
+      "Quantum Theory",
+      "Relativity"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Hard",
+    "question": "What branch of physics deals with very low temperatures?",
+    "correct_answer": "Cryogenics",
+    "options": [
+      "Cryogenics",
+      "Thermodynamics",
+      "Acoustics",
+      "Optics"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Hard",
+    "question": "What is the term for an organism that produces its own food?",
+    "correct_answer": "Autotroph",
+    "options": [
+      "Autotroph",
+      "Heterotroph",
+      "Consumer",
+      "Parasite"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Hard",
+    "question": "What is the chemical symbol for gold?",
+    "correct_answer": "Au",
+    "options": [
+      "Au",
+      "Ag",
+      "Pb",
+      "Gd"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Hard",
+    "question": "Which scientist is known for the uncertainty principle?",
+    "correct_answer": "Werner Heisenberg",
+    "options": [
+      "Werner Heisenberg",
+      "Max Planck",
+      "Erwin Schrödinger",
+      "Paul Dirac"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Hard",
+    "question": "What is the most reactive group of elements in the periodic table?",
+    "correct_answer": "Alkali metals",
+    "options": [
+      "Alkali metals",
+      "Noble gases",
+      "Halogens",
+      "Transition metals"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "Hard",
+    "question": "What is the name of the scale used to measure earthquakes?",
+    "correct_answer": "Richter scale",
+    "options": [
+      "Richter scale",
+      "Beaufort scale",
+      "Mohs scale",
+      "Fujita scale"
+    ]
+  }
+]

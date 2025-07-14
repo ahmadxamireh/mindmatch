@@ -1,0 +1,362 @@
+[
+  {
+    "category": "Music",
+    "difficulty": "Easy",
+    "question": "Which pop star is known as the 'Queen of Pop'?",
+    "correct_answer": "Madonna",
+    "options": [
+      "Madonna",
+      "Lady Gaga",
+      "Katy Perry",
+      "Taylor Swift"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Easy",
+    "question": "Which band released the hit song 'Yellow Submarine'?",
+    "correct_answer": "The Beatles",
+    "options": [
+      "The Beatles",
+      "The Rolling Stones",
+      "Queen",
+      "ABBA"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Easy",
+    "question": "Which singer performed 'Thriller'?",
+    "correct_answer": "Michael Jackson",
+    "options": [
+      "Michael Jackson",
+      "Prince",
+      "Stevie Wonder",
+      "Elvis Presley"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Easy",
+    "question": "Who sang 'Shake It Off'?",
+    "correct_answer": "Taylor Swift",
+    "options": [
+      "Taylor Swift",
+      "Selena Gomez",
+      "Ariana Grande",
+      "Katy Perry"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Easy",
+    "question": "Which group performed 'Bohemian Rhapsody'?",
+    "correct_answer": "Queen",
+    "options": [
+      "Queen",
+      "Pink Floyd",
+      "The Who",
+      "Led Zeppelin"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Easy",
+    "question": "Which genre is associated with artists like Jay-Z and Eminem?",
+    "correct_answer": "Hip Hop",
+    "options": [
+      "Hip Hop",
+      "Rock",
+      "Pop",
+      "Jazz"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Easy",
+    "question": "What instrument has black and white keys?",
+    "correct_answer": "Piano",
+    "options": [
+      "Piano",
+      "Guitar",
+      "Violin",
+      "Drums"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Easy",
+    "question": "Which artist is known for the song 'Hello' (2015)?",
+    "correct_answer": "Adele",
+    "options": [
+      "Adele",
+      "Rihanna",
+      "Beyoncé",
+      "Sia"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Easy",
+    "question": "What is the name of the Korean pop sensation with the hit 'Gangnam Style'?",
+    "correct_answer": "PSY",
+    "options": [
+      "PSY",
+      "BTS",
+      "EXO",
+      "BigBang"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Easy",
+    "question": "Which Disney character famously sings 'Let It Go'?",
+    "correct_answer": "Elsa",
+    "options": [
+      "Elsa",
+      "Ariel",
+      "Belle",
+      "Moana"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Medium",
+    "question": "Which classical composer became deaf later in life?",
+    "correct_answer": "Ludwig van Beethoven",
+    "options": [
+      "Ludwig van Beethoven",
+      "Mozart",
+      "Bach",
+      "Tchaikovsky"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Medium",
+    "question": "Which band released the album 'Dark Side of the Moon'?",
+    "correct_answer": "Pink Floyd",
+    "options": [
+      "Pink Floyd",
+      "The Beatles",
+      "The Who",
+      "The Rolling Stones"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Medium",
+    "question": "Which singer is known for the 2020 album 'Future Nostalgia'?",
+    "correct_answer": "Dua Lipa",
+    "options": [
+      "Dua Lipa",
+      "Billie Eilish",
+      "Lizzo",
+      "Halsey"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Medium",
+    "question": "Which rapper founded the label 'Aftermath Entertainment'?",
+    "correct_answer": "Dr. Dre",
+    "options": [
+      "Dr. Dre",
+      "Eminem",
+      "Snoop Dogg",
+      "Jay-Z"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Medium",
+    "question": "Which jazz musician is known for 'What a Wonderful World'?",
+    "correct_answer": "Louis Armstrong",
+    "options": [
+      "Louis Armstrong",
+      "Miles Davis",
+      "John Coltrane",
+      "Duke Ellington"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Medium",
+    "question": "Which 90s band had a hit with 'Smells Like Teen Spirit'?",
+    "correct_answer": "Nirvana",
+    "options": [
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden",
+      "Radiohead"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Medium",
+    "question": "What is the highest male vocal range in classical music?",
+    "correct_answer": "Tenor",
+    "options": [
+      "Tenor",
+      "Baritone",
+      "Bass",
+      "Alto"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Medium",
+    "question": "Which singer is known for the alter ego 'Sasha Fierce'?",
+    "correct_answer": "Beyoncé",
+    "options": [
+      "Beyoncé",
+      "Rihanna",
+      "Nicki Minaj",
+      "Ciara"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Medium",
+    "question": "What music festival is held annually in Indio, California?",
+    "correct_answer": "Coachella",
+    "options": [
+      "Coachella",
+      "Lollapalooza",
+      "Bonnaroo",
+      "Glastonbury"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Medium",
+    "question": "Which artist has the most Grammy wins as of 2023?",
+    "correct_answer": "Beyoncé",
+    "options": [
+      "Beyoncé",
+      "Taylor Swift",
+      "Kanye West",
+      "Jay-Z"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Hard",
+    "question": "Which composer wrote the opera 'The Magic Flute'?",
+    "correct_answer": "Wolfgang Amadeus Mozart",
+    "options": [
+      "Wolfgang Amadeus Mozart",
+      "Verdi",
+      "Puccini",
+      "Beethoven"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Hard",
+    "question": "Who was the original drummer for The Beatles?",
+    "correct_answer": "Pete Best",
+    "options": [
+      "Pete Best",
+      "Ringo Starr",
+      "George Martin",
+      "Brian Epstein"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Hard",
+    "question": "Which experimental genre did Brian Eno help pioneer?",
+    "correct_answer": "Ambient",
+    "options": [
+      "Ambient",
+      "Grunge",
+      "Psychedelic Rock",
+      "Techno"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Hard",
+    "question": "Which artist released the 1975 concept album 'Wish You Were Here'?",
+    "correct_answer": "Pink Floyd",
+    "options": [
+      "Pink Floyd",
+      "Genesis",
+      "Yes",
+      "Led Zeppelin"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Hard",
+    "question": "Which band is known for the 33-minute song 'Thick as a Brick'?",
+    "correct_answer": "Jethro Tull",
+    "options": [
+      "Jethro Tull",
+      "Rush",
+      "King Crimson",
+      "Yes"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Hard",
+    "question": "Which jazz saxophonist is known for the album 'A Love Supreme'?",
+    "correct_answer": "John Coltrane",
+    "options": [
+      "John Coltrane",
+      "Miles Davis",
+      "Charlie Parker",
+      "Chet Baker"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Hard",
+    "question": "Which modern composer wrote 'Einstein on the Beach'?",
+    "correct_answer": "Philip Glass",
+    "options": [
+      "Philip Glass",
+      "John Adams",
+      "Steve Reich",
+      "Karlheinz Stockhausen"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Hard",
+    "question": "What was the original name of the band Queen?",
+    "correct_answer": "Smile",
+    "options": [
+      "Smile",
+      "The Reaction",
+      "Mercury Rising",
+      "Echo"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Hard",
+    "question": "Who composed the score for the video game 'The Legend of Zelda'?",
+    "correct_answer": "Koji Kondo",
+    "options": [
+      "Koji Kondo",
+      "Nobuo Uematsu",
+      "Yasunori Mitsuda",
+      "Jeremy Soule"
+    ]
+  },
+  {
+    "category": "Music",
+    "difficulty": "Hard",
+    "question": "What year did MTV first launch?",
+    "correct_answer": "1981",
+    "options": [
+      "1981",
+      "1983",
+      "1985",
+      "1979"
+    ]
+  }
+]

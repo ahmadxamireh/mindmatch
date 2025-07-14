@@ -1,0 +1,362 @@
+[
+  {
+    "category": "Olympics",
+    "difficulty": "Easy",
+    "question": "How often are the Summer Olympic Games held?",
+    "correct_answer": "Every 4 years",
+    "options": [
+      "Every 4 years",
+      "Every 2 years",
+      "Every 5 years",
+      "Every 6 years"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Easy",
+    "question": "What colours are the Olympic rings?",
+    "correct_answer": "Blue, Yellow, Black, Green, Red",
+    "options": [
+      "Blue, Yellow, Black, Green, Red",
+      "Red, Orange, Blue, Purple, Green",
+      "Black, White, Red, Yellow, Green",
+      "Blue, Red, Yellow, White, Green"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Easy",
+    "question": "Which city hosted the 2016 Summer Olympics?",
+    "correct_answer": "Rio de Janeiro",
+    "options": [
+      "Rio de Janeiro",
+      "London",
+      "Beijing",
+      "Tokyo"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Easy",
+    "question": "What sport uses a pommel horse?",
+    "correct_answer": "Gymnastics",
+    "options": [
+      "Gymnastics",
+      "Equestrian",
+      "Wrestling",
+      "Track and Field"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Easy",
+    "question": "Which country has won the most Olympic gold medals?",
+    "correct_answer": "United States",
+    "options": [
+      "United States",
+      "China",
+      "Russia",
+      "Germany"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Easy",
+    "question": "What is the prize for winning an Olympic event?",
+    "correct_answer": "Gold Medal",
+    "options": [
+      "Gold Medal",
+      "Trophy",
+      "Cup",
+      "Ribbon"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Easy",
+    "question": "What year did the Tokyo Olympics take place (after being postponed)?",
+    "correct_answer": "2021",
+    "options": [
+      "2021",
+      "2020",
+      "2022",
+      "2019"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Easy",
+    "question": "Which Olympic sport takes place in a velodrome?",
+    "correct_answer": "Cycling",
+    "options": [
+      "Cycling",
+      "Swimming",
+      "Fencing",
+      "Wrestling"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Easy",
+    "question": "In which sport do athletes perform the butterfly stroke?",
+    "correct_answer": "Swimming",
+    "options": [
+      "Swimming",
+      "Diving",
+      "Wrestling",
+      "Rowing"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Easy",
+    "question": "Which item is carried during the Olympic relay?",
+    "correct_answer": "Torch",
+    "options": [
+      "Torch",
+      "Flag",
+      "Banner",
+      "Ribbon"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Medium",
+    "question": "Which athlete has won the most Olympic medals of all time?",
+    "correct_answer": "Michael Phelps",
+    "options": [
+      "Michael Phelps",
+      "Usain Bolt",
+      "Larisa Latynina",
+      "Simone Biles"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Medium",
+    "question": "Which city was the first to host the modern Olympic Games?",
+    "correct_answer": "Athens",
+    "options": [
+      "Athens",
+      "Paris",
+      "Rome",
+      "London"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Medium",
+    "question": "Which sport made its Olympic debut in Tokyo 2020?",
+    "correct_answer": "Skateboarding",
+    "options": [
+      "Skateboarding",
+      "Karate",
+      "Baseball",
+      "Surfing"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Medium",
+    "question": "What country boycotted the 1980 Moscow Olympics?",
+    "correct_answer": "United States",
+    "options": [
+      "United States",
+      "Soviet Union",
+      "China",
+      "France"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Medium",
+    "question": "Which Jamaican sprinter is an 8-time Olympic gold medalist?",
+    "correct_answer": "Usain Bolt",
+    "options": [
+      "Usain Bolt",
+      "Asafa Powell",
+      "Yohan Blake",
+      "Nesta Carter"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Medium",
+    "question": "Which year were the Winter and Summer Olympics held in the same year for the last time?",
+    "correct_answer": "1992",
+    "options": [
+      "1992",
+      "1988",
+      "1994",
+      "2000"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Medium",
+    "question": "What is the maximum number of players on a basketball team during an Olympic game?",
+    "correct_answer": "5",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "4"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Medium",
+    "question": "What country hosted the 2008 Summer Olympics?",
+    "correct_answer": "China",
+    "options": [
+      "China",
+      "Japan",
+      "South Korea",
+      "Russia"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Medium",
+    "question": "Which Olympic sport uses an épée?",
+    "correct_answer": "Fencing",
+    "options": [
+      "Fencing",
+      "Boxing",
+      "Judo",
+      "Archery"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Medium",
+    "question": "Who was the first gymnast to score a perfect 10 at the Olympics?",
+    "correct_answer": "Nadia Comăneci",
+    "options": [
+      "Nadia Comăneci",
+      "Simone Biles",
+      "Shannon Miller",
+      "Mary Lou Retton"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Hard",
+    "question": "Which country has hosted the Olympics four times (as of 2021)?",
+    "correct_answer": "United States",
+    "options": [
+      "United States",
+      "France",
+      "Japan",
+      "UK"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Hard",
+    "question": "Which Olympic Games were first to feature live television coverage?",
+    "correct_answer": "Berlin 1936",
+    "options": [
+      "Berlin 1936",
+      "London 1948",
+      "Rome 1960",
+      "Tokyo 1964"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Hard",
+    "question": "Which host city was the first to light the Olympic flame using a parabolic mirror?",
+    "correct_answer": "Los Angeles 1932",
+    "options": [
+      "Los Angeles 1932",
+      "Berlin 1936",
+      "Athens 1896",
+      "Tokyo 1964"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Hard",
+    "question": "Which Olympic sport includes the 'Clean and Jerk' lift?",
+    "correct_answer": "Weightlifting",
+    "options": [
+      "Weightlifting",
+      "Wrestling",
+      "Rowing",
+      "Gymnastics"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Hard",
+    "question": "Which two countries have never missed a modern Olympic Games?",
+    "correct_answer": "Greece and Australia",
+    "options": [
+      "Greece and Australia",
+      "USA and UK",
+      "France and Germany",
+      "Sweden and Italy"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Hard",
+    "question": "Which city will host the 2028 Summer Olympics?",
+    "correct_answer": "Los Angeles",
+    "options": [
+      "Los Angeles",
+      "Paris",
+      "Brisbane",
+      "Tokyo"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Hard",
+    "question": "Which athlete won 9 Olympic gold medals in athletics but was stripped of one?",
+    "correct_answer": "Carl Lewis",
+    "options": [
+      "Carl Lewis",
+      "Jesse Owens",
+      "Usain Bolt",
+      "Justin Gatlin"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Hard",
+    "question": "Which year did women first compete in the modern Olympics?",
+    "correct_answer": "1900",
+    "options": [
+      "1900",
+      "1896",
+      "1920",
+      "1912"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Hard",
+    "question": "Which country topped the medal table in the 2008 Summer Olympics?",
+    "correct_answer": "China",
+    "options": [
+      "China",
+      "USA",
+      "Russia",
+      "Germany"
+    ]
+  },
+  {
+    "category": "Olympics",
+    "difficulty": "Hard",
+    "question": "Which city hosted the first Winter Olympic Games?",
+    "correct_answer": "Chamonix",
+    "options": [
+      "Chamonix",
+      "St. Moritz",
+      "Oslo",
+      "Innsbruck"
+    ]
+  }
+]

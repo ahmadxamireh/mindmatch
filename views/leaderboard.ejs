@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Leaderboard – MindRift</title>
+    <link rel="stylesheet" href="/css/styles.css"/>
+</head>
+<body>
+<section class="card-stack">
+    <article class="card" style="--i:0">
+        <div class="card-content">
+            <div class="leaderboard-header">
+            <h3 class="card-title">🏆 Top 10 Scores</h3>
+            <form method="GET" action="/mindrift/leaderboard" style="margin-bottom: 1rem;">
+                <select name="category" onchange="this.form.submit()">
+                    <option <%= selectedCategory === "All Categories" ? "selected" : "" %>>All Categories</option>
+                    <% categories.forEach(cat => { %>
+                        <option value="<%= cat %>" <%= selectedCategory === cat ? "selected" : "" %>><%= cat %></option>
+                    <% }) %>
+                </select>
+            </form>
+            </div>
+            <% if (scores.length === 0) { %>
+                <p>No scores available for this category yet.</p>
+            <% } else { %>
+                <table>
+                    <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Username</th>
+                        <th>Score</th>
+                        <% if (selectedCategory === "All Categories") { %>
+                            <th>Category</th>
+                        <% } %>
+                        <th>Difficulty</th>
+                        <th>Date</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <% scores.forEach((row, index) => { %>
+                        <tr>
+                            <td><%= index + 1 %></td>
+                            <td><%= row.username %></td>
+                            <td><%= row.score %></td>
+                            <% if (selectedCategory === 'All Categories') { %>
+                                <td><%= row.category %></td>
+                            <% } %>
+                            <td><%= row.difficulty %></td>
+                            <td><%= new Date(row.created_at).toLocaleDateString('en-GB') %></td>
+                        </tr>
+                    <% }) %>
+                    </tbody>
+                </table>
+            <% } %>
+            <div class="button-row">
+                <a href="/mindrift/menu" class="custom-btn btn-14">Back to Menu</a>
+                <a href="/mindrift" class="custom-btn btn-14">Back to Start</a>
+            </div>
+        </div>
+    </article>
+</section>
+</body>
+</html>

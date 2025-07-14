@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>MindRift Quiz</title>
+    <link rel="stylesheet" href="/css/styles.css" />
+  </head>
+  <body>
+    <section class="card-stack">
+      <article class="card quiz-card" style="--i: 0">
+        <div class="question-header">
+          <!-- Category badge on top-left -->
+          <span class="category-badge"><%= category %></span>
+
+          <!-- Title centered -->
+          <h3 class="card-title">Question 1</h3>
+
+          <!-- Difficulty badge on top-right -->
+          <span
+            class="difficulty-badge <%= firstQuestion.difficulty.toLowerCase() %>"
+          >
+            <%= firstQuestion.difficulty %>
+          </span>
+        </div>
+        <div class="card-content">
+          <p><%= firstQuestion.question %></p>
+          <div class="frame">
+            <button class="custom-btn btn-3 option">
+              <span>Option 1</span>
+            </button>
+            <button class="custom-btn btn-3 option">
+              <span>Option 2</span>
+            </button>
+            <button class="custom-btn btn-3 option">
+              <span>Option 3</span>
+            </button>
+            <button class="custom-btn btn-3 option">
+              <span>Option 4</span>
+            </button>
+          </div>
+        </div>
+      </article>
+      <!-- Final result card -->
+      <article class="card result-card" style="display: none">
+        <div class="card-content">
+          <h3 class="card-title">Quiz Complete!</h3>
+          <p id="final-score-text"></p>
+          <form method="POST" action="/mindrift/leaderboard">
+            <input
+              type="text"
+              name="username"
+              placeholder="Enter your name"
+              maxlength="15"
+              required
+            /><br />
+            <input type="hidden" name="score" id="final-score-value" />
+            <input type="hidden" name="category" value="<%= category %>" />
+            <input type="hidden" name="difficulty" value="<%= difficulty %>" />
+            <button class="custom-btn btn-14"><span>Submit Score</span></button>
+          </form>
+        </div>
+      </article>
+    </section>
+    <!-- Scripts -->
+    <script>
+      window.firstQuestion = <%- JSON.stringify(firstQuestion) %>;
+      window.groupedByDifficulty = <%- JSON.stringify(groupedByDifficulty) %>;
+      window.currentDifficulty = "easy"; // initial value
+    </script>
+    <script src="/js/adaptiveLogic.js"></script>
+  </body>
+</html>
