@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/ahmadxamireh/mindrift.git"
   },
-  "license": "ISC",
+  "license": "MIT",
   "author": "Ahmad Amireh",
   "type": "module",
   "main": "index.js",
